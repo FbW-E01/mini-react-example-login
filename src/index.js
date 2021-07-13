@@ -1,7 +1,7 @@
 import ReactDOM from 'react-dom';
+import App from './App.jsx';
 
-function Box() {
-    return <p>Hello React!</p>;
-}
-
-ReactDOM.render(<Box />, document.querySelector("#react-root"))
+ReactDOM.render(
+    <App />,
+    document.querySelector("#react-root")
+);

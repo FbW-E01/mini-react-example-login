@@ -1,0 +1,11 @@
+.loginform input {
+    width: 80%;
+    margin: 1em auto;
+    display: block;
+}
+
+.loginform button {
+    width: 80%;
+    margin: 1em auto;
+    display: block;
+}

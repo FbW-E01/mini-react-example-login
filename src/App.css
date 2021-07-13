@@ -1,0 +1,9 @@
+body {
+    display: grid;
+}
+
+.login {
+    border: 0.1em solid black;
+    width: 200px;
+    margin: auto;
+}
